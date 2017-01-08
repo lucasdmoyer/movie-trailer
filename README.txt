@@ -1,0 +1,1 @@
+To open the application, make sure you have media.py, fresh_tomatoes.py, and entertainment_center.py. Then run the entertainment_center.py
